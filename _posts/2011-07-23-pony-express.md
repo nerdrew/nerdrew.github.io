@@ -2,6 +2,7 @@
 layout: post
 title: Pony Express
 published: true
+tags: NYC2SF
 ---
 #### Day 68: Ely, NV rest day<br/>July 23, 2011
 

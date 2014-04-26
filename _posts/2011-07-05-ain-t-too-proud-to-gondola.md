@@ -2,6 +2,7 @@
 layout: post
 title: Ain't too proud to gondola
 published: true
+tags: NYC2SF
 ---
 #### Day 50: Gunnison, CO to Montrose, CO<br/>July 5, 2011
 

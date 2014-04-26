@@ -2,6 +2,7 @@
 layout: post
 title: Buggies, airplanes, and turtles. Oh my!
 published: true
+tags: NYC2SF
 ---
 #### Day 22: near Hodgenville, KY to near Falls of Rough, KY<br/>June 7, 2011
 

@@ -2,6 +2,7 @@
 layout: post
 title: Vital Stats
 published: true
+tags: NYC2SF
 ---
 Well, we haven't been on a bicycle since we arrived in San Francisco, so we don't have a lot to report.
 

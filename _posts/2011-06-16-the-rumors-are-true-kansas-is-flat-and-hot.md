@@ -2,6 +2,7 @@
 layout: post
 title: ! 'The rumors are true: Kansas is flat and hot'
 published: true
+tags: NYC2SF
 ---
 #### Day 31: Summersville, MO to Hartville, MO<br/>June 16, 2011
 

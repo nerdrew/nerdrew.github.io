@@ -2,6 +2,7 @@
 layout: post
 title: Rudy! Rudy! (Project)
 published: true
+tags: NYC2SF
 ---
 No, we aren't watching vintage sports movies...  Our arrival in Berea marked
 another exciting event: our mail pickup of exciting new gear from Rudy Project.

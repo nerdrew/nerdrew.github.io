@@ -2,6 +2,7 @@
 layout: post
 title: A Mighty Wind
 published: true
+tags: NYC2SF
 ---
 #### Day 35: Pittsburg, KS to Benedict, KS<br/>June 20, 2011
 

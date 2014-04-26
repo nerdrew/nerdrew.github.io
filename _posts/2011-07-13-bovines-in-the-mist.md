@@ -2,6 +2,7 @@
 layout: post
 title: Bovines in the mist
 published: true
+tags: NYC2SF
 ---
 #### Day 58: Hanksville, UT to Torrey, UT<br/>July 13, 2011
 

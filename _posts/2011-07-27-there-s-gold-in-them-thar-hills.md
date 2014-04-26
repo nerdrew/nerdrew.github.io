@@ -2,6 +2,7 @@
 layout: post
 title: There's gold in them thar hills
 published: true
+tags: NYC2SF
 ---
 #### Day 72: Austin, NV to Cold Springs, NV (middle of nowhere)<br/>July 27, 2011
 

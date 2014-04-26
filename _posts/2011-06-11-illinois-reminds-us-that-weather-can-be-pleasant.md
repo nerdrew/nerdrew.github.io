@@ -2,6 +2,7 @@
 layout: post
 title: Illinois reminds us that weather can be pleasant
 published: true
+tags: NYC2SF
 ---
 #### Day 26: Carbondale, IL<br/>June 11, 2011
 

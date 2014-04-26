@@ -2,6 +2,7 @@
 layout: post
 title: Out of Appalachia and into Bluegrass
 published: true
+tags: NYC2SF
 ---
 #### Day 20: Berea, KY to Mackville, KY<br/>June 5, 2011
 

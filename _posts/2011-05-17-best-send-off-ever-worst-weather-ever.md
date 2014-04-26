@@ -2,6 +2,7 @@
 layout: post
 title: Best Send Off Ever, Worst Weather Ever
 published: true
+tags: NYC2SF
 ---
 #### Day 1: NY, NY to Raritan, NJ<br/>May 17, 2011
 

@@ -2,6 +2,7 @@
 layout: post
 title: So close we can taste it
 published: true
+tags: NYC2SF
 ---
 And it tastes like salad, asian food, It's-Its, and yogurt.
 

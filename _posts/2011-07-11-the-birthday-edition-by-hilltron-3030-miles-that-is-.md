@@ -2,6 +2,7 @@
 layout: post
 title: The Birthday Edition by Hilltron 3030 (miles, that is)
 published: true
+tags: NYC2SF
 ---
 Today's blog post is dedicated to three very special birthday celebrants: Lucy, Josh, and Steve!
 

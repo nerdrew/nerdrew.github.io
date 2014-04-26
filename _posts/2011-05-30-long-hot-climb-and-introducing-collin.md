@@ -2,6 +2,7 @@
 layout: post
 title: Long hot climb and introducing Collin
 published: true
+tags: NYC2SF
 ---
 We've had sketchy Internet access so 2 posts today...
 

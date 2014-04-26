@@ -2,6 +2,7 @@
 layout: post
 title: Hurrah, hurrah, Pennsylvan-i-a
 published: true
+tags: NYC2SF
 ---
 Not sure what all the hurrahs are for...it has rained on us pretty much the
 whole time we've been here. Here's what we've been up to for the last 3 days.
@@ -19,7 +20,7 @@ afternoon. We have some very tired legs and sore derrières.
 
 * Starting point: Raritan, NJ
 * Ending point: Philly, PA
-* Slept: ivy's house!
+* Slept: Ivy's house!
 * Miles: 76.85
 * Average speed: 10.5
 
@@ -55,12 +56,12 @@ cross-country bicyclists to camp on their property for free! I'm writing this
 from the attic of their barn!   I can't remember who gave us this advice but it
 was really good: when it comes to biking in the rain, don't bother trying to
 stay dry. Just focus on staying wet but warm. Our gear has been great for that.
-Most notable: pearl Izumi leg warmers and our bright yellow ( can't remember
-the model) PI jackets that don't keep all the wet off but definitely protect
+Most notable: pearl Izumi leg warmers and our bright yellow (can't remember the
+model) PI jackets that don't keep all the wet off but definitely protect
 against the wind.
 
 * Starting point: Denver, PA
-* Ending point: Wrightsvikle, PA
+* Ending point: Wrightsville, PA
 * Slept: camped
 * Miles: 45.25
 * Average speed: 9.5

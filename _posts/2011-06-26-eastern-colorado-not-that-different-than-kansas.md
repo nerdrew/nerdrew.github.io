@@ -2,6 +2,7 @@
 layout: post
 title: ! 'Eastern Colorado: not that different than Kansas'
 published: true
+tags: NYC2SF
 ---
 #### Day 41: Selkirk, KS to Eads, CO<br/>June 26, 2011
 

@@ -2,6 +2,7 @@
 layout: post
 title: The softer side of Kansas
 published: true
+tags: NYC2SF
 ---
 #### Day 37: Eureka, KS to Newton, KS<br/>June 22, 2011
 

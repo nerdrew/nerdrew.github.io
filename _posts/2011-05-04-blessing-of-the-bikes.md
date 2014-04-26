@@ -2,6 +2,7 @@
 layout: post
 title: Blessing of the Bikes
 published: true
+tags: NYC2SF
 ---
 On Saturday morning we peeled ourselves out of bed to go to St. John the Divine
 (conveniently located at the end of our block) for the 13th annual Blessing of

@@ -2,6 +2,7 @@
 layout: post
 title: Utah! Making a boring entrance
 published: true
+tags: NYC2SF
 ---
 #### Day 53: Rico, CO to Dove Creek, CO<br/>July 8, 2011
 

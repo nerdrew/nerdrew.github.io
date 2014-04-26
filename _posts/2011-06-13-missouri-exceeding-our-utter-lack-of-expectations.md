@@ -2,6 +2,7 @@
 layout: post
 title: Missouri, exceeding our utter lack of expectations
 published: true
+tags: NYC2SF
 ---
 Really limited Internet access out here...hopefully this will post soon
 

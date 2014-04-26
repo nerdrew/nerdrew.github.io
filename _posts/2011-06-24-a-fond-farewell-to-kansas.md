@@ -2,6 +2,7 @@
 layout: post
 title: A fond farewell to Kansas
 published: true
+tags: NYC2SF
 ---
 #### Day 39: Larned, KS to Dighton, KS<br/>June 24, 2011
 

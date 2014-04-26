@@ -2,6 +2,7 @@
 layout: post
 title: Sweating our way through the Appalachians
 published: true
+tags: NYC2SF
 ---
 New state! It is hot and sticky here, too. And there are bugs.
 

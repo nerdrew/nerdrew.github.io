@@ -2,6 +2,7 @@
 layout: post
 title: ! 'Chapter the 63rd: in which Andrew and Hillary are still in Utah'
 published: true
+tags: NYC2SF
 ---
 #### Day 63: Tropic, UT rest day<br/>July 16, 2011
 

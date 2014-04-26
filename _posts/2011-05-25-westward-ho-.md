@@ -2,6 +2,7 @@
 layout: post
 title: Westward, ho!
 published: true
+tags: NYC2SF
 ---
 #### Day 9: Charlottesville, VA to Rockfish Gap, VA<br/>May 25, 2011
 

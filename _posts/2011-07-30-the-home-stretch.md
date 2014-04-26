@@ -2,6 +2,7 @@
 layout: post
 title: The home stretch
 published: true
+tags: NYC2SF
 ---
 #### Day 75: Carson City, NV to Caples Lake, California!!<br/>July 30, 2011
 

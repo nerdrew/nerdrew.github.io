@@ -2,6 +2,7 @@
 layout: post
 title: The mountains really take your breath away (literally)
 published: true
+tags: NYC2SF
 ---
 #### Day 44: Pueblo, CO--rest day<br/>June 29, 2011
 

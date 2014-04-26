@@ -2,6 +2,7 @@
 layout: post
 title: San Francisco!
 published: true
+tags: NYC2SF
 ---
 #### Day 79: Napa, CA to San Francisco, CA<br/>August 3, 2011
 

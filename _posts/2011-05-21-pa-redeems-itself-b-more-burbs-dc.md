@@ -2,6 +2,7 @@
 layout: post
 title: PA redeems itself, B'more 'burbs, DC
 published: true
+tags: NYC2SF
 ---
 #### Day 5: Wrightsville, PA to Owings Mills, MD<br/>May 21, 2011
 

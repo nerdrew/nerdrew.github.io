@@ -2,6 +2,7 @@
 layout: post
 title: ! 'The good news: the can of chili that expired in 2009 didn''t kill us'
 published: true
+tags: NYC2SF
 ---
 #### Day 24: Sebree, KY to Cave in Rock, IL<br/>June 9, 2011
 

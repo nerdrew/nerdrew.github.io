@@ -2,6 +2,7 @@
 layout: post
 title: Things are getting a little toasty...
 published: true
+tags: NYC2SF
 ---
 #### Day 12: Catawba, VA to Grahams Forge, VA<br/>May 28, 2011
 

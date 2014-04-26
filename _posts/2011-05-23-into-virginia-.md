@@ -2,6 +2,7 @@
 layout: post
 title: Into Virginia...
 published: true
+tags: NYC2SF
 ---
 #### Day 7: Washington DC to Warrenton, VA<br/>May 23, 2011
 

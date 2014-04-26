@@ -1,3 +1,4 @@
 name: Hillarus
 markdown: redcarpet
 pygments: true
+exclude: src

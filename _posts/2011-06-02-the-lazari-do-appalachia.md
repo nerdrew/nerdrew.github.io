@@ -2,6 +2,7 @@
 layout: post
 title: The Lazari do Appalachia
 published: true
+tags: NYC2SF
 ---
 #### Day 17: Hindman, KY to Booneville, KY<br/>June 2, 2011
 

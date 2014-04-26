@@ -2,6 +2,7 @@
 layout: post
 title: ! 'Virginia: it has rain, too'
 published: true
+tags: NYC2SF
 ---
 #### Day 10: Rockfish Gap, VA to Natural Bridge, VA<br/>May 26, 2011
 

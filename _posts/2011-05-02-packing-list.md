@@ -2,6 +2,7 @@
 layout: post
 title: Packing List
 published: true
+tags: NYC2SF
 ---
 This might not be that interesting to most, but other people's gear lists were
 helpful for us as we prepared for this trip. So here is ours:
