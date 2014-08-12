@@ -4,7 +4,17 @@ layout: default
 
 <div class="home">
 
-  <div id="tumblr" class="posts"></div>
+  <h1>CA Coast Bike Trip</h1>
+
+  <ul class="posts">
+    {% for post in site.tags.CACoast %}
+      <li>
+        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+
   <h1>NYC to SF Bike Trip</h1>
 
   <ul class="posts">

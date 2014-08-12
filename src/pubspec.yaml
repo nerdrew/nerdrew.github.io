@@ -1,6 +1,0 @@
-name: hillarus
-version: 0.0.1
-dependencies:
-  browser: any
-  js: any
-  intl: any
