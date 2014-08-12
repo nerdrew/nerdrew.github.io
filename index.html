@@ -1,17 +1,21 @@
 ---
 layout: default
-title: Hillarus
 ---
 
-<div id="home">
+<div class="home">
+
   <div id="tumblr" class="posts"></div>
   <h1>NYC to SF Bike Trip</h1>
+
   <ul class="posts">
     {% for post in site.tags.NYC2SF %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      <li>
+        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </li>
     {% endfor %}
   </ul>
-</div>
 
-<script type="application/dart" src="src/main.dart"></script>
-<script type="text/javascript" src="src/packages/browser/dart.js"></script>
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

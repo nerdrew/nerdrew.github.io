@@ -1,3 +1,11 @@
+# Site settings
 name: Hillarus
-markdown: redcarpet
-pygments: true
+title: Hillarus
+#email: your-email@domain.com
+description: "Hillarus' Blog"
+baseurl: ""
+url: "http://www.hillarus.com"
+
+# Build settings
+markdown: kramdown
+permalinks: pretty
