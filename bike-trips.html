@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <a name="CA-Coast-2014"></a>
+  <h1>CA Coast Bike Trip</h1>
+
+  <ul class="posts">
+    {% for post in site.tags.CACoast %}
+      <li>
+        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <a name="Cross-Country-2011"></a>
+  <h1>NYC to SF Bike Trip</h1>
+
+  <ul class="posts">
+    {% for post in site.tags.NYC2SF %}
+      <li>
+        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

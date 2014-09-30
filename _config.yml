@@ -8,4 +8,4 @@ url: "http://www.hillarus.com"
 
 # Build settings
 markdown: kramdown
-permalinks: pretty
+permalink: /:year/:month/:day/:title.html
